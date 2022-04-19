@@ -29,6 +29,7 @@ Prerequisites:<br />
 ><img src="../main/Sudoku_Samples/sodoku_1.png?raw=true" ><br />
 ><img src="../main/Sudoku_Samples/sodoku_2.png?raw=true" ><br />
 ><img src="../main/Sudoku_Samples/sodoku_3.png?raw=true" ><br />
+
 **OUTPUTS**<br />
 ><img src="../main/Sudoku_Samples/sudoku_1.png?raw=true" ><br />
 ><img src="../main/Sudoku_Samples/sudoku_2.png?raw=true" ><br />
