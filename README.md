@@ -19,7 +19,7 @@ What is Deep Learning?
 To detect numbers from the sudoku board we’ll use a pre-trained OCR model. OCR or Optical Character Recognition is a technology that recognizes text within a digital image. The model that we’ll be using is specially trained for sudoku. It only detects a single digit in an image.<br />
 
 Prerequisites:<br />
-1. Python 3.x (we used 3.7.10)
+1. Python 3.x
 2. OpenCV – 4.4.0
 3. Numpy – 1.19.3
 4. Tensorflow – 2.5.0
