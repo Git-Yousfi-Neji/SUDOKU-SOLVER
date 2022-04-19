@@ -31,7 +31,7 @@ Prerequisites:<br />
 ><img src="../main/Sudoku_Samples/sodoku_3.png?raw=true" ><br />
 
 **OUTPUTS**<br />
-><img src="../main/Sudoku_Samples/sudoku_1.PNG?raw=true" ><br />
-><img src="../main/Sudoku_Samples/sudoku_2.PNG?raw=true" ><br />
-><img src="../main/Sudoku_Samples/sudoku_3.PNG?raw=true" ><br />
+><img src="../main/Results/sudoku_1.PNG?raw=true" ><br />
+><img src="../main/Results/sudoku_2.PNG?raw=true" ><br />
+><img src="../main/Results/sudoku_3.PNG?raw=true" ><br />
 
