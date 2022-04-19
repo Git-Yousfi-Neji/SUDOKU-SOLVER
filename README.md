@@ -24,3 +24,13 @@ Prerequisites:<br />
 3. Numpy – 1.19.3
 4. Tensorflow – 2.5.0
 5. Imutils – 0.5.4
+
+**INPUTS**<br />
+><img src="../main/Sudoku_Samples/sodoku_1.png?raw=true" ><br />
+><img src="../main/Sudoku_Samples/sodoku_2.png?raw=true" ><br />
+><img src="../main/Sudoku_Samples/sodoku_3.png?raw=true" ><br />
+**OUTPUTS**<br />
+><img src="../main/Sudoku_Samples/sudoku_1.png?raw=true" ><br />
+><img src="../main/Sudoku_Samples/sudoku_2.png?raw=true" ><br />
+><img src="../main/Sudoku_Samples/sudoku_3.png?raw=true" ><br />
+
