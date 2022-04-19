@@ -1,9 +1,9 @@
-#**SUDOKU-SOLVER**
+**SUDOKU-SOLVER**
 _We all played sudoku at least once in our childhood. It is a very interesting puzzle game. In this project, we’re going to build a sudoku solver program using OpenCV. It detects a sudoku board from an image and then solves it._
 
 First, the program will detect a sudoku board in an image then extract only the board. Then it detects each given number from that board and then it solves the board. After solving the board it puts the solved numbers in that original image at the same position where the board was empty. All these operations will be built with OpenCV python and Deep learning OCR detection.
 
-#What is OpenCV?
+What is OpenCV?
 >OpenCV is an Image processing library for python and it is written in C/C++. We can also perform some real-time operations with OpenCV because it is very fast and lightweight.
 
 #What is Deep Learning?
